@@ -1,27 +1,25 @@
 # FinanceBoard
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
+FinanceBoard is a web application developed with Angular that centralizes clients' financial information in a user-friendly and visually appealing way. The project includes features to display:
 
-## Development server
+- **Available Balance**  
+- **Credit Card Details**  
+- **Customer Profile**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Technologies Used
+- **Angular v17**: Main framework for the front-end.  
+- **TypeScript**: For enhanced code scalability and type safety.  
+- **CSS Flexbox/Grid**: To ensure a responsive layout.  
+- **RESTful API**: For dynamic data integration and consumption.
 
-## Code scaffolding
+## Features
+1. Real-time available balance display.  
+2. Detailed information on credit cards.  
+3. Customer profile viewing and editing.  
+4. Optimized design for both mobile and desktop devices.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/financeboard.git
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
